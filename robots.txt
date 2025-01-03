@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://y2mate-co-com.github.io/y2mate/sitemap.xml
